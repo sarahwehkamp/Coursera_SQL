@@ -1,0 +1,6 @@
+A/B test lift and p-value calculations (95% confidence interval) were performed using the Thumbtack ABBA calculator:
+
+* **orders (30-day binary):** Lift -15% – 11% (-2.2%), p-value 0.74
+* **views (30-day binary):** Lift -2.1% – 5.9% (1.9%), p-value 0.36
+
+Conclusion for `item_test_2`: No significant difference was observed in either the number of views or the number of orders between the control and experiment groups.
